@@ -1,2 +1,2 @@
 # fizzbuzz
-//Garmin interview question, the fizz buzz game.
+Garmin interview question, the fizz buzz game.
